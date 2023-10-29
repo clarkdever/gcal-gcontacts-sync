@@ -1,6 +1,7 @@
 #application specific
 output/
 .DS_Store
+gpt-paste.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
